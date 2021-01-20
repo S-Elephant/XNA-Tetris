@@ -1,0 +1,33 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Lib_Windows.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Lib_Windows.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\white1px.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\white1px50Trans.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\block.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\BG\bg01.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\GUI.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\blockShine.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\blockBG.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\Credit.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\CreditTitle.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\MenuChoice.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\MenuTitle.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\Title.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\countdown.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\countdownFinished.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\levelUp.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\Tetris.xgs
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\plopp01.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\plopp02.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\plopp03.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\CountDown.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\guiBG.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\BG\bg02.xnb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\quitMenu.xnb

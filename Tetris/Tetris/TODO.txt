@@ -1,0 +1,5 @@
+﻿- pushing blocks down seems to cost a lot of cpu?
+- implement highscore system.
+- need better backgrounds.
+- enable rotation of shapes in both directions.
+- GameOver menu.

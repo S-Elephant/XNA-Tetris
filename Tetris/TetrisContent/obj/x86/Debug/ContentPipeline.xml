@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\white1px.png</Source>
+      <Name>Textures\white1px</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\white1px.xnb</Output>
+      <Time>2011-08-09T14:17:06.48325+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\white1px50Trans.png</Source>
+      <Name>Textures\white1px50Trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\white1px50Trans.xnb</Output>
+      <Time>2011-08-09T14:17:06.48325+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\block.png</Source>
+      <Name>Textures\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\block.xnb</Output>
+      <Time>2011-08-09T14:18:35.54575+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\bg01.jpg</Source>
+      <Name>Textures\BG\bg01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\BG\bg01.xnb</Output>
+      <Time>2011-08-10T15:09:16.5005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GUI.spritefont</Source>
+      <Name>Fonts\GUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\GUI.xnb</Output>
+      <Time>2011-08-10T15:04:49.016125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blockShine.png</Source>
+      <Name>Textures\blockShine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\blockShine.xnb</Output>
+      <Time>2011-08-10T15:50:19.438+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blockBG.png</Source>
+      <Name>Textures\blockBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\blockBG.xnb</Output>
+      <Time>2011-08-10T15:33:10.40675+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Credit.spritefont</Source>
+      <Name>Fonts\Credit</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\Credit.xnb</Output>
+      <Time>2011-08-10T18:17:56.718125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CreditTitle.spritefont</Source>
+      <Name>Fonts\CreditTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\CreditTitle.xnb</Output>
+      <Time>2011-08-10T18:17:56.73375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuChoice.spritefont</Source>
+      <Name>Fonts\MenuChoice</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\MenuChoice.xnb</Output>
+      <Time>2011-08-10T18:17:56.765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuTitle.spritefont</Source>
+      <Name>Fonts\MenuTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\MenuTitle.xnb</Output>
+      <Time>2011-08-10T18:17:56.79625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Title.spritefont</Source>
+      <Name>Fonts\Title</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\Title.xnb</Output>
+      <Time>2011-08-10T18:17:56.67125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\countdown.wav</Source>
+      <Name>Audio\countdown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\countdown.xnb</Output>
+      <Time>2011-08-10T18:26:20.015+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\countdownFinished.wav</Source>
+      <Name>Audio\countdownFinished</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\countdownFinished.xnb</Output>
+      <Time>2011-08-10T18:26:19.999375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\levelUp.wav</Source>
+      <Name>Audio\levelUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\levelUp.xnb</Output>
+      <Time>2011-08-10T18:26:20.04625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\plopp01.wav</Source>
+      <Name>Audio\plopp01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\plopp01.xnb</Output>
+      <Time>2011-08-10T18:47:04.843125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\plopp02.wav</Source>
+      <Name>Audio\plopp02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\plopp02.xnb</Output>
+      <Time>2011-08-10T18:47:04.780625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\plopp03.wav</Source>
+      <Name>Audio\plopp03</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Audio\plopp03.xnb</Output>
+      <Time>2011-08-10T18:47:04.780625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\CountDown.spritefont</Source>
+      <Name>Fonts\CountDown</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Fonts\CountDown.xnb</Output>
+      <Time>2011-08-10T19:06:43.686875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\guiBG.png</Source>
+      <Name>Textures\guiBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\guiBG.xnb</Output>
+      <Time>2011-08-10T19:22:33.8275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\bg02.jpg</Source>
+      <Name>Textures\BG\bg02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\BG\bg02.xnb</Output>
+      <Time>2011-08-10T19:24:30.843125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\quitMenu.png</Source>
+      <Name>Textures\quitMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\Textures\quitMenu.xnb</Output>
+      <Time>2011-08-10T19:42:50.436875+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\TetrisContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-13T18:01:29.936875+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

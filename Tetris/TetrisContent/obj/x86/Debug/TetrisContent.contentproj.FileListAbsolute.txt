@@ -1,0 +1,2 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\TetrisContent\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Tetris\Tetris\TetrisContent\obj\x86\Debug\Audio\Tetris.xml
